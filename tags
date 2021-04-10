@@ -1,0 +1,42 @@
+system,sysDescr,The target system is described as:		
+system,sysName,The target system name is:			
+system,42.3.1.3.0,The target Operating System is:			
+system,Hotfix,Hotfix:						
+system,Pack,Service Pack:					
+routing,ifNumber,Number of interfaces on target:			
+routing,ifDescr,The interface is described as:			
+routing,ifType,The interface is of type:			
+routing,ifPhysAddress,The MAC address of the interface is:		
+routing,ifAdminStatus,The Interface state is:				
+routing,ipForwarding,Forwarding between interfaces is:		
+routing,ipAdEntAddr,The interface IP address is:			
+routing,ipAdEntNetMask,The netmask of the interface is:		
+routing,ipAdEntBcastAddr,The system broadcast address is:		
+routing,ipRouteNextHop,The next hop for route destination is:		
+routing,ipRouteDest,Route destination is:				
+routing,ipRouteMask,The netmask of the route destination is:	
+routing,ipRouteMetric1,The metric for the route destination is:	
+routing,ipRouteType,The IP route type for route destination is:	
+routing,ipNetToMediaNetAddress,The device it knows about is:			
+services,77.1.2.3.1.1,Running Service:				
+services,42.3.12.1.1.10,Running Service:					
+tcp,tcpConnLocalPort,Listening TCP Port:				
+udp,udpLocalPort,Listening UDP Port:				
+users,77.1.2.25.1.1,User account:					
+shares,77.1.2.27.1.1,Local share name:				
+shares,77.1.2.27.1.2,Local share path:				
+shares,77.1.2.27.1.3,Local share description:			
+domain,77.1.4.1.0,Domain name:					
+other,hrSystemUptime,System up time:					
+other,hrSystemDate,System date:					
+other,hrSystemNumUsers,Number of logged on users:			
+other,hrStorageType,Local storage device description:		
+other,hrStorageDescr,Local storage device name:			
+other,hrSWRunName,Processes running on target:			
+installed,hrSWInstalledName,Installed component:				
+installed,hrSWInstalledDate,Installation date:				
+users,svUserName,User account:				
+community,eventCommunity,Other community:				
+other,http:,URL Location:					
+other,https:,URL Location:					
+vlan,enterprises.2467.1.29.2.1.2,I know about the following VLAN:
